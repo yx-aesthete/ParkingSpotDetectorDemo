@@ -1,5 +1,8 @@
 # ParkingSpotDetectorDemo
 
+Wideo demontartion:
+[YT Demo](https://youtu.be/28flNf1J994)
+
 ## Overview
 
 This project demonstrates the detection of cars in predefined parking spots using a YOLO-based object detection model. It provides an efficient interface to define, edit, and detect cars in parking spots on video footage, even from challenging camera angles and distances.
